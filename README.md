@@ -1,2 +1,2 @@
-# FurnitureWebsiteTemplate
+# Furniture Website Template
  
